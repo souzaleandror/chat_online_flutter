@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7ac6de1-fd9c-4406-b57f-08322a7f1fd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Runner/GoogleService-Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teste_firebase/lib/generated/i18n.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/main_dart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/main_dart.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -35,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="87" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
+            <state relative-caret-position="180">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -72,8 +59,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -96,10 +81,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -147,7 +135,7 @@
     <frame x="0" y="23" width="1168" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24955595" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24955595" />
       <window_info id="Captures" order="1" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -280,8 +268,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="87" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
+        <state relative-caret-position="180">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
